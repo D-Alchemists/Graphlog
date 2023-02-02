@@ -11,7 +11,7 @@ Progetto universitario per la realizzazione di un agente che consenta di eseguir
 
 L'obiettivo principale è quello di realizzare un applicativo che consenta di realizzare in maniera intuitiva e semplice analisi su grafi e di riportare i principali modelli di programmazione matematica in un linguaggio dichiarativo come prolog.
 
-
+Una demo del sito è disponibile al seguente [link](https://d-alchemists.github.io/Graphlog/)
 ### Screenshot
 #### Home
 Sulla sinistra è possibile visualizzare un grafo di default, sulla destra invece delle aree per inserire nodi e archi in formato JSON. Inoltre è possibile premere il pulsante "Random" per far generare a GraphLog un grafo casuale per poi passare all'analisi.
